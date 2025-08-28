@@ -305,4 +305,4 @@ For questions or issues related to this workshop, please contact the NUS-ISS tea
 
 **Happy Learning! 🚀**
 
-*Last updated: [Current Date]*
+*Last updated: 28 August 2025
